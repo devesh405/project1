@@ -1,0 +1,78 @@
+#stores{
+    box-sizing:border-box;
+    text-align: center;
+    padding: 5%;
+  }
+  h1{
+    font-size: 4rem;
+    margin: 2%;
+  }
+  .stores{
+    box-sizing:border-box;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-rows: 200px 200px 200px;
+    column-gap: 20px;
+    row-gap: 330px;
+    text-align: justify;
+  }
+  .store{
+      box-sizing:border-box;
+    padding:0 3% 3%;
+  }
+  .store:hover{
+    box-shadow: 4px 4px 4px 3px grey;
+  }
+  .store-name{
+    text-align: center;
+    font-size: 2rem;
+  }
+  .store-one{
+    width:100%;
+    height:  125%;
+    padding-bottom: 1rem;
+  }
+.store-two{
+  width: 100%;
+  height: 125%;
+  padding-bottom: 1rem;
+}
+
+.store-three{
+  width: 100%;
+  height: 125%;
+  padding-bottom: 1rem;
+}
+ 
+.store-four{
+  width: 100%;
+  height: 130%;
+  padding-bottom: 1rem;
+}
+.store-five{
+  width: 100%;
+  height: 130%;
+  padding-bottom: 1rem;
+}
+
+.store-seven{
+  width: 100%;
+  height: 125%;
+  padding-bottom: 1rem;
+}
+.store-eight{
+width: 100%;
+height: 125%;
+padding-bottom: 1rem;
+}
+
+.store-six{
+  width: 100%;
+  height: 130%;
+padding-bottom: 1rem;
+}
+.store-nine{
+  width: 100%;
+  height: 125%;
+  padding-bottom: 1rem;
+}
